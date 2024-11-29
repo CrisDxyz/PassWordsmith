@@ -38,7 +38,7 @@ This tool is designed to help you create secure passwords and passphrases effort
 *Obligatory xkcd comic related to the software*
 *![](https://imgs.xkcd.com/comics/password_strength.png)*
 
-*If the comic didnt convince you, check [https://www.useapassphrase.com/][This]*
+*If the comic didnt convince you, check this <https://www.useapassphrase.com/>[website]
 
 ### Database Management
 - Optional password saving
