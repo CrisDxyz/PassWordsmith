@@ -34,11 +34,11 @@ This tool is designed to help you create secure passwords and passphrases effort
 - Homoglyph substitution option
 - Memorable generation (Mnemonics) using themed lists selected, that can be re-roled
 - Prefix and suffix support also included!
-()
 
-*![Obligatory xkcd comic related to the software](https://imgs.xkcd.com/comics/password_strength.png)*
+*Obligatory xkcd comic related to the software*
+*![](https://imgs.xkcd.com/comics/password_strength.png)*
 
-*If the comic didnt convince you, check (https://www.useapassphrase.com/)[This]*
+*If the comic didnt convince you, check [https://www.useapassphrase.com/][This]*
 
 ### Database Management
 - Optional password saving
