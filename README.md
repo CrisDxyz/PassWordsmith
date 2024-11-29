@@ -1,4 +1,5 @@
-# 🔐 PassWordsmith Overview
+# 🔐 PassWordsmith - Mastering the Art of Password Forging
+## Overview
 This tool is designed to help you create secure passwords and passphrases effortlessly, featuring a user-friendly interface and advanced options for customization. Whether you're looking for a random password with various character sets or a memorable passphrase from themed word lists, this generator has you covered.
 
 ## 🌟 Features
