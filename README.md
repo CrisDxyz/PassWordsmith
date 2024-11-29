@@ -35,7 +35,7 @@ This tool is designed to help you create secure passwords and passphrases effort
 - Memorable generation (Mnemonics) using themed lists selected, that can be re-roled
 - Prefix and suffix support also included!
 
-![](https://xkcd.com/936/)
+*![Obligatory xkcd comic related to the software](https://xkcd.com/936/)*
 
 *If the comic didnt convince you, check ![This](https://www.useapassphrase.com/)*
 
