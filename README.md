@@ -63,7 +63,7 @@ This tool is designed to help you create secure passwords and passphrases effort
 3. Ensure all files are in the same directory
 4. Run the script
 
-## 🚀 Usage
+## 🚀 Usage and GUI Overview
 
 ### Random Password Tab
 0. Optional: Activate the save passwords to database in settings
@@ -86,6 +86,13 @@ This tool is designed to help you create secure passwords and passphrases effort
 
 ![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Random%20Passphrase%20tab.png)
 
+### Settings
+- Toggle database saving
+- Hide/unhide password and decoy databases
+- Generate decoy files for added security
+
+![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Settings%20tab%20%2B%20Save%20to%20db%20a%20pass%20with%20substitution.png)
+
 ### Checking the Database
 0. Be sure to unhide the file first
 1. Double click system_logs.txt
@@ -93,13 +100,6 @@ This tool is designed to help you create secure passwords and passphrases effort
 
 *Note: By the nature of this software there's a high chance you forget what each password was used in,*
 *you can edit the database to your liking to get a reminder, like "QA!Z$Vb1QQ24uRW - Forkhub.com"*
-
-### Settings
-- Toggle database saving
-- Hide/unhide password and decoy databases
-- Generate decoy files for added security
-
-![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Settings%20tab%20%2B%20Save%20to%20db%20a%20pass%20with%20substitution.png)
 
 ## Demo Examples
 
