@@ -66,21 +66,25 @@ This tool is designed to help you create secure passwords and passphrases effort
 ## 🚀 Usage
 
 ### Random Password Tab
-0. (Optional) Activate the save passwords to database in settings
+0. Optional: Activate the save passwords to database in settings
 1. Set desired password length
-2. Select character types
+2. Select desired character types to include/exclude
 3. Optional: Add prefix/suffix
 4. Click "Generate"
-5. Copy and save to database
+5. Copy to clipboard (and save to database if setting is activated)
+
+![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Random%20Password%20tab.png)
 
 ### Passphrase Tab
-0. (Optional) Activate the save passwords to database in settings
+0. Optional: Activate the save passwords to database in settings
 1. Select word lists
-2. Set word count
-3. Optional: Add separators
+2. Optional: Change default word count
+3. Add separators (Recommended)
 4. Optional: Enable homoglyph substitution
 5. Click "Generate"
-6. Copy and save to database
+6. Copy to clipboard (and save to database if setting is activated)
+
+![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Random%20Passphrase%20tab.png)
 
 ### Checking the Database
 0. Be sure to unhide the file first
@@ -95,11 +99,13 @@ This tool is designed to help you create secure passwords and passphrases effort
 - Hide/unhide password and decoy databases
 - Generate decoy files for added security
 
+![](https://github.com/CrisDxyz/PassWordsmith/blob/main/img/PassWordsmith%20-%20Settings%20tab%20%2B%20Save%20to%20db%20a%20pass%20with%20substitution.png)
+
 ## Demo Examples
 
-![]("Coming soon!")
-![]("Coming soon!")
-![]("Coming soon!")
+![Coming soon!]("placeholder.link")
+
+![Coming soon!]("placeholder.link")
 
 ## 🔒 General Security Best Practices
 - Use long passwords (15+ characters)
