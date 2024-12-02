@@ -98,8 +98,9 @@ This tool is designed to help you create secure passwords and passphrases effort
 1. Double click system_logs.txt
 2. Scroll down to retrieve any password used in the past
 
-*Note: By the nature of this software there's a high chance you forget what each password was used in,*
-*you can edit the database to your liking to get a reminder, like "QA!Z$Vb1QQ24uRW - Forkhub.com"*
+*Note: By the nature of this software there's a chance you forget what each password was used in when time goes by, so*
+*you can create a password related to the account using prefix/suffix, like "@SpoonC#m4w?aWejFHvb" for your Forkhub account, using @Spoon and Hvb*
+*or directly edit the database to your liking to get a reminder, like "QA!Z$Vb1QQ24uRW - Forkhub.com"*
 
 ## Demo Examples
 
